@@ -1,0 +1,99 @@
+h1, h4, #annonces
+	{
+		text-align: center;
+	}
+h4
+	{
+		display: flex;
+		justify-content: space-between;
+		background-color: black;
+		color: white;
+		font-size: 0.9em;
+		margin-bottom: 0px;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+#left_nav, #right_nav
+    {
+        display: flex;
+    }
+#right_nav
+    {
+	    justify-content: right;
+    }
+#boutons
+	{
+		display: flex;
+		justify-content: center;
+	}
+.avatar
+	{
+		display: flex;
+		align-items: center;
+		padding-left: 20px;
+	}
+.avatar_center
+	{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-left: -70px;
+	}
+.member_info
+	{
+		text-align: center;
+	}
+.news p
+	{
+		background-color: #CCCCCC;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-left: 15px;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+.news
+	{
+		width: 70%;
+		margin: auto;
+		padding-bottom: 5px;
+	}
+.commentaires
+	{
+		width: 70%;
+		margin: auto;
+		text-align: center;
+	}
+.lien_commentaires
+	{
+		margin-top: 0px;
+	}
+.liens_pages
+	{
+		text-align: center;
+	}
+.erreur_page
+	{
+		color: red;
+		text-align: center;
+		font-size: 2em;
+	}
+.creation_billet
+	{
+		text-align: center;
+		font-size: 1.5em;
+	}
+.modification_billet
+	{
+		width: 70%;
+		margin: auto;
+		text-align: center;
+	}
+
+a
+	{
+		text-decoration: none;
+		color: blue;
+	}

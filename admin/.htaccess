@@ -1,0 +1,4 @@
+AuthName "Secured administration page: you must be an administartor to enter here !"
+AuthType Basic
+AuthUserFile "G:/MAMP/htdocs/TP_blog_avec_commentaires/admin/.htpasswd"
+Require valid-user

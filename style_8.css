@@ -1,0 +1,129 @@
+ h1, h2, h3, h4, hr, form, #annonces
+	{
+		text-align: center;
+	}
+h4
+	{
+		display: flex;
+		justify-content: space-between;
+		background-color: black;
+		color: white;
+		font-size: 0.9em;
+		margin-bottom: 0px;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+table a
+	{
+		color: blue;
+		font-weight: bold;
+		text-decoration: none;
+	}
+#left_nav, #right_nav
+    {
+        display: flex;
+    }
+#right_nav
+    {
+	    justify-content: right;
+    }
+#boutons
+	{
+		display: flex;
+		justify-content: center;
+	}
+.form-check
+	{
+		display: flex;
+		align-items: center;
+	}
+.pass-warning
+	{
+		color: blue;
+	}
+.avatar
+	{
+		display: flex;
+		align-items: center;
+		padding-left: 20px;
+	}
+.avatar_center
+	{
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-left: -70px;
+	}
+.member_info
+	{
+		text-align: center;
+	}
+.news p
+	{
+		background-color: #CCCCCC;
+		margin-top: -5px;
+		margin-bottom: 0px;
+		padding-left: 15px;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+.news
+	{
+		width: 70%;
+		margin: auto;
+		padding-bottom: 5px;
+	}
+.commentaires
+	{
+		width: 70%;
+		margin: auto;
+		text-align: center;
+	}
+.lien_commentaires
+	{
+		margin-top: 0px;
+	}
+.liens_pages
+	{
+		text-align: center;
+	}
+.erreur_page
+	{
+		color: red;
+		text-align: center;
+		font-size: 2em;
+	}
+.creation_billet
+	{
+		text-align: center;
+		font-size: 1.5em;
+	}
+.modification_billet
+	{
+		width: 70%;
+		margin: auto;
+		text-align: center;
+	}
+.message_login_change
+	{
+		color: green;
+		text-align: center;
+		font-size: 1.5em;
+	}
+.tableau
+	{
+		display: flex;
+		justify-content: center;
+		margin-left: 50px;
+	}
+.overview
+	{
+		color:red;
+	}
+a
+	{
+		text-decoration: none;
+		color: blue;
+	}
